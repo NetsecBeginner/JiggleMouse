@@ -25,7 +25,7 @@ def Main():
             root.warp_pointer(301,301)
             d.sync()
 
-            time.sleep(600) #Sleeps for 10 Minutes(600 seconds)
+            time.sleep(300) #Sleeps for 5 Minutes(300 seconds)
 
     #Gets Rid of Error Screen When Exiting
     except KeyboardInterrupt:
